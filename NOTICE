@@ -1,0 +1,13 @@
+pdf-onepass
+Copyright 2024-2026 Marco Dorfliger
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product uses Apache PDFBox (https://pdfbox.apache.org/), licensed under the
+Apache License, Version 2.0. Apache, Apache PDFBox and PDFBox are trademarks of
+The Apache Software Foundation. This product is not affiliated with or endorsed
+by The Apache Software Foundation.
+
+The tests use Liberation Sans (src/test/resources; Copyright (c) 2010 Google
+Corporation, Copyright (c) 2012 Red Hat, Inc.), licensed under the SIL Open Font
+License 1.1 (see LiberationSans-LICENSE.txt there). It is not part of the jar.
